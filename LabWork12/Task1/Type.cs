@@ -1,4 +1,0 @@
-﻿namespace Task1
-{
-    
-}

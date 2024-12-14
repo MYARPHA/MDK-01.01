@@ -1,7 +1,6 @@
-﻿using System.Runtime.CompilerServices;
-using Task1;
+﻿using Task1;
 
-Files file = new("hogwarts_sucks.txt", "../asasas/hogwarts_sucks.txt" , 100);
+Files file = new("hogwarts_sucks.txt", "../asasas/hogwarts_sucks.txt", 100);
 Console.WriteLine(file);
 Console.WriteLine();
 Console.WriteLine(file.ToString());

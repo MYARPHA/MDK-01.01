@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kompu\\Desktop\\ISPP-35\\LabWork5\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\temp\\MYRPH\\LabWork5\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\kompu\\Desktop\\ISPP-35\\LabWork5\\Task1\\Task1.csproj",
+      "projectPath": "C:\\temp\\MYRPH\\LabWork5\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\kompu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kompu\\Desktop\\ISPP-35\\LabWork5\\Task1\\obj\\",
+      "outputPath": "C:\\temp\\MYRPH\\LabWork5\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -71,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
